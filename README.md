@@ -14,7 +14,7 @@ Instructions:
 
 2. The go.bat assumes two things: you're running it from "Developer Command Prompt" (i.e. CL is in your PATH) and that you're running it from the spacebin root directory. The latter is important because it uses relative-path to "reference" binsatellite Release binary.
 
-3. The results are rendered in a Web UI that is hosted on: http://ns1.argcargvenvp.com:8080 the username is john and the password is foobar the code this website is inside bingroundctrl and it's a mixture of: tailon (Python app), nginx, tail, grep etc.
+3. The results are rendered in a Web UI that is hosted on: http://<YOUR SITE>:8080 the username is <YOUR_USERNAME> and the password is <YOUR_PASSWORD> the code this website is inside bingroundctrl and it's a mixture of: tailon (Python app), nginx, tail, grep etc.
 
 4. To test that everything works as expected:
 
