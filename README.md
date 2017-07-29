@@ -2,7 +2,7 @@
 
 Spacebin is a proof-of-concept malware that exfiltrates data (from air-gapped-like environments) via triggering AV on the endpoint and then communicating back from the AV's cloud component.
 
-It was released as part of the [THE ADVENTURES OF AV AND THE LEAKY SANDBOX](https://www.blackhat.com/us-17/briefings.html#the-adventures-of-av-and-the-leaky-sandbox) talk given at BlackHat USA 2017 conference by Itzik Kotler and Amit Klein from [SafeBreach Labs](http://www.safebreach.com).
+It was released as part of the [THE ADVENTURES OF AV AND THE LEAKY SANDBOX](https://www.blackhat.com/us-17/briefings.html#the-adventures-of-av-and-the-leaky-sandbox) talk given at BlackHat USA 2017 conference and DEF CON 25 by Itzik Kotler and Amit Klein from [SafeBreach Labs](http://www.safebreach.com).
 
 Slides are availble [here](https://www.blackhat.com/docs/us-17/thursday/us-17-Kotler-The-Adventures-Of-Av-And-The-Leaky-Sandbox.pdf) and White paper is avialble [here](https://www.blackhat.com/docs/us-17/thursday/us-17-Kotler-The-Adventures-Of-Av-And-The-Leaky-Sandbox-wp.pdf)
 
